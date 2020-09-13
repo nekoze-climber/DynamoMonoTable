@@ -1,0 +1,28 @@
+[
+  {
+    "HASH": "cb823d42-28c8-4a3a-81c9-4513b8cdaeb9",
+    "RANGE": "2000-01-01",
+    "GSI0HASH": "expired",
+    "GSI0RANGE": "2020-08-01",
+    "userId": "cb823d42-28c8-4a3a-81c9-4513b8cdaeb9",
+    "birthDate": "2000-01-01",
+    "userName": "taro",
+    "weight": "70",
+    "height": "180",
+    "status": "expired",
+    "createdAt": "2020-08-01"
+  },
+  {
+    "HASH": "67b09448-64e9-4ec0-be71-226f95022d28",
+    "RANGE": "2000-02-01",
+    "GSI0HASH": "active",
+    "GSI0RANGE": "2019-07-11",
+    "userId": "67b09448-64e9-4ec0-be71-226f95022d28",
+    "birthDate": "2000-02-01",
+    "userName": "jiro",
+    "weight": "80",
+    "height": "170",
+    "status": "active",
+    "createdAt": "2019-07-11"
+  }
+]
