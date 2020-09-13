@@ -17,7 +17,7 @@
     "HASH": "67b09448-64e9-4ec0-be71-226f95022d28",
     "RANGE": "2000-02-01",
     "GSI0HASH": "UST",
-    "GSI1HASH": "UTC|active",
+    "GSI1HASH": "UST|active",
     "GSI1RANGE": "2019-07-11",
     "userId": "67b09448-64e9-4ec0-be71-226f95022d28",
     "birthDate": "2000-02-01",
